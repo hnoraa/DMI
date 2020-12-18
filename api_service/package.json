@@ -1,7 +1,7 @@
 {
-  "name": "dmi-server",
+  "name": "dmi-api-server",
   "version": "1.0.0",
-  "description": "Data Management Interface Backend",
+  "description": "Data Management Interface API Backend",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

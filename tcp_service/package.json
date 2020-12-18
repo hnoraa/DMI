@@ -1,0 +1,11 @@
+{
+  "name": "dmi-tcp-server",
+  "version": "1.0.0",
+  "description": "Data Management Interface TCP Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Horeth (hnoraa)",
+  "license": "SEE LICENSE IN LICENSE FILE"
+}
