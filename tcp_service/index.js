@@ -1,6 +1,8 @@
 const net = require('net');
 
 const config = require('./config.json');
+
+/*
 const tcp = new net.createServer();
 
 // set up listener
@@ -38,4 +40,22 @@ tcp.on('connection', (socket) => {
     socket.on('error', (err) => {
         console.error(`Error: ${err}`);
     });
+});
+*/
+const tcp = new net.Socket();
+
+// connect to the server
+tcp.connect({ port: config.port, host: config.host }, () => {
+    // write to a server
+    tcp.write('test');
+});
+
+// on data received
+tcp.on('data', (chunk) => {
+    console.log(`Data received from the server: ${chunk.toString()}.`);
+    tcp.end();
+});
+
+tcp.on('end', () => {
+    console.log('Requested an end to the TCP connection');
 });
