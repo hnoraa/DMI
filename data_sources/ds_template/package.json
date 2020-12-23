@@ -1,0 +1,11 @@
+{
+  "name": "ds_template",
+  "version": "1.0.0",
+  "description": "Data Source template (skeleton to copy for data sources)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Horeth (hnoraa)",
+  "license": "SEE LICENSE IN LICENSE FILE"
+}
