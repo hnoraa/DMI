@@ -1,1 +1,99 @@
-<mxfile host="Electron" modified="2020-12-18T21:21:59.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.9.9 Chrome/85.0.4183.121 Electron/10.1.5 Safari/537.36" etag="oQeHVWzQiAcRcJRpQeZS" version="13.9.9" type="device"><diagram id="CnzuL7EMIbcyPun35FIp" name="Page-1">7Vrbbts4EP0aPybQ3cpj4qRNixQbrFu0faRESmJKiV6Sju18/Q4lSrYuTr2pL8m2gAGLI3JInjNnOJI9cif58r1As+wTx4SNHAsvR+71yHFsz3FG+mPhVWUJXWNIBcWm09owpU/EGC1jnVNMZKuj4pwpOmsbY14UJFYtGxKCL9rdEs7as85QSnqGaYxY3/qVYpWZXfjW2n5LaJrVM9uWuZOjurMxyAxhvtgwuTcjdyI4V9VVvpwQpsGrcanGvdtyt1mYIIXaZcDXT0831j93t7eTjw/vH568yeWtc2a8PCI2Nxv+PLkHw5SIRyLMwtWqRiNTOYMre+ReYSQzol1b0FhkVBE5Q7Hut4BIABvsd6ab+TLVoXGOE3wuFRKw2KuEMjbhjIvSrYsRCZNYj1GC/yAbd4I4JFECd8w6iVBkuRUAu4EV4pHwnCixgi71gJoJE4p+TeJiTWzTJ9sgNTA2ZGIpbVyv4YYLg/h/QH/cA5hgiD7TLHgBX1eCzwvcIM2FynjKC8TuOJ8ZLh6IUiujHTRXHEwbTJElVd/08HPftL63WtdL47tsaHDO3Lp5TwSFvRJhupQEXmpdgSFmSEoa1+Z3lNVTVvvSm3meK9g7n4uYPIORM8ypIAwp+tj2P0SQGXrPKczcxILrtWPB8zscw4ZSosyoDs3NMl7OvPMb6c4JX5vuwjenO4BarDac6eb3dnPtrmxpf27TPL2OXXN4l7p6pp/3i3r/pcBwfyNZet5rk2XQA/glqnuRUs62S6WdB/YunJ8KYguLhz4AK0Ef7AC8+JOCj56CvR0jzj9lCva2pOAJo8SE4hFSMLGxT8ZDKfgiGLsoOExl5F6cOgXbdg/hP7o8tC79XU8CaziajiNM+8hPqzsGxut5Ut2ZxuCUNPq9/Pr3zfSzqXEpbPBIGTYJYxIPFrlR6Otq5CAZ1nFPnmGtHgFfPhwN9CRxhkHHQRT4BzrWxifH/PnXLVKvA4HwYOqRfpWc56jAcMWo7FccgItqpyzEaFroLAP46PxzpdGjMWKX5kZOMWZldiSSPqGodKXpnOnyutytfzXyr7UvSIiyyo32ntjw22wEXp8OxxqgwzkYHdses+saz5KkwHJNhb6Ec0LbDV8wMawuYJqJCB7Mg1RfQd6VZSKVM84LSap+tbPSXFpLZwHKtXqKSM5KoLvOTFqUW9LiWwsDz/Y7tabfDwN3IAy6D4b7C4N+qd/F3AL0mOauio+4jo8yGPQpC1MUCRc5HJy8gFYieN50b6LlzVPXOcQGFOyOj6rgfhXxReoXZIA5I3GpQjiq4qzDRZs6jBRqOHvzHLXlZQ8UGs5xOQp6HE0VF/r3zi7YdQURrxiF6l24daUxbVcaG2xEVZ1/FzUGFP9Iy+r/r7kCNzW2Ncz+UDVCgi3VyPgisvZUAtqd869BfIOZYICY8GDEhD/PexKYItKkt/JL6yX6H8ikQ8ZQbRjuRybQXP+6Xr23XP9Hwb35Fw==</diagram></mxfile>
+<mxfile host="65bd71144e" modified="2020-12-23T18:51:22.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="2_AmAhbHueLlTn8LYZN7" version="13.10.0" type="embed">
+    <diagram id="CnzuL7EMIbcyPun35FIp" name="Page-1">
+        <mxGraphModel dx="1100" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="11" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="510" width="530" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="180" width="210" height="280" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-1" value="TCP Server" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-30;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=30;entryPerimeter=0;" edge="1" parent="1" source="WMzE0qLHHCJjGjz4CAH2-2" target="WMzE0qLHHCJjGjz4CAH2-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-2" value="TCP Server" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-30;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=30;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="WMzE0qLHHCJjGjz4CAH2-3" target="WMzE0qLHHCJjGjz4CAH2-4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-3" value="TCP Server" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                    <mxGeometry x="440" y="550" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-6" style="orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-30;entryPerimeter=0;rounded=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=30;exitPerimeter=0;" parent="1" target="WMzE0qLHHCJjGjz4CAH2-1" edge="1" source="WMzE0qLHHCJjGjz4CAH2-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="300" y="480" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-30;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=30;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="WMzE0qLHHCJjGjz4CAH2-4" target="WMzE0qLHHCJjGjz4CAH2-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-4" value="TCP Client" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="376" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-30;exitPerimeter=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=30;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="WMzE0qLHHCJjGjz4CAH2-5" target="WMzE0qLHHCJjGjz4CAH2-10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="WMzE0qLHHCJjGjz4CAH2-5" target="WMzE0qLHHCJjGjz4CAH2-16" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-5" value="REST Service" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-10" value="UI" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="70" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzE0qLHHCJjGjz4CAH2-12" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-12" value="TCP Servers have a command list" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="245" y="700" width="200" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMzE0qLHHCJjGjz4CAH2-13" target="WMzE0qLHHCJjGjz4CAH2-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-13" value="TCP Client sends commands to servers, &lt;br&gt;gets respoonse, sends response to&amp;nbsp;&lt;br&gt;REST service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="376" width="230" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WMzE0qLHHCJjGjz4CAH2-15" target="WMzE0qLHHCJjGjz4CAH2-10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-15" value="User selects which TCP server to get data from" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+                    <mxGeometry x="415" y="130" width="270" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-16" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="190" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="4" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Core Of System" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="350" width="100" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="480" y="215" width="200" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-14" value="REST service calls TCP client to&lt;br&gt;&amp;nbsp;get information from TCP servers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6" vertex="1">
+                    <mxGeometry width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="WMzE0qLHHCJjGjz4CAH2-18" value="REST service stores info in db" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="6" vertex="1">
+                    <mxGeometry x="10" y="45" width="180" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WMzE0qLHHCJjGjz4CAH2-14" target="WMzE0qLHHCJjGjz4CAH2-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="13" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="Data sources" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="570" width="90" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
